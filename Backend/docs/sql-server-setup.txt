@@ -1,0 +1,36 @@
+# Microsoft SQL Server
+## Tee Database
+# SQL Server Configuration Manager
+## Server running
+## Protocols
+### TCP/IP Enabled
+### IPAll
+#### TCP Dynamic Ports = empty
+#### TCP Port [port number]
+# Windows Defender Firewall
+## New rule
+## Protoccol type TCP
+## Local Port = Specific Port = [port number]
+# Router settings 192.168.11.1
+## Port Translation
+### TCP [port number]
+### LAN IP Address
+
+
+# PostgreSQL
+## Tee Database
+# SQL Server Configuration Manager
+## Server running
+## Protocols
+### TCP/IP Enabled
+### IPAll
+#### TCP Dynamic Ports = empty
+#### TCP Port [port number]
+# Windows Defender Firewall
+## New rule
+## Protoccol type TCP
+## Local Port = Specific Port = [port number]
+# Router settings 192.168.11.1
+## Port Translation
+### TCP [port number]
+### LAN IP Address
