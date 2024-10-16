@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/janharkonen/talousanalyysi/internal/dbconnect"
+	"github.com/janharkonen/talousanalyysi/internal/database/dbconnect"
 )
 
 //func main() {
